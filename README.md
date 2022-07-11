@@ -1,1 +1,1 @@
-complete ruby developers by jaffa.
+complete ruby developers by .
